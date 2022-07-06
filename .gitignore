@@ -99,3 +99,44 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# hide source repository files
+ratings.csv
+repos.csv
+Ejercicio_Random_Forest.ipynb
+Ejercicio_PCA.ipynb
+usuarios_win_mac_lin.csv
+users.csv
+analisis.csv
+README.md
+Ejemplo_Embeddings_Keras.ipynb
+Ejercicio_imbalanced_data.ipynb
+Series_Temporales_con_RRNN.ipynb
+Manipulacion_datos_pandas.ipynb
+Ejercicio_Bayes.ipynb
+Regresion_logistica.ipynb
+Ejercicio_Arbol_de_Decision.ipynb
+comprar_alquilar.csv
+reviews_sentiment.csv
+Ejemplo_WebScraping_Bolsa_y_Futbol.ipynb
+Ejercicio_Sistemas_Recomendacion.ipynb
+articulos_ml.csv
+Ejercicio_Reinforcement_Learning_Pong.ipynb
+time_series.csv
+NN_Obstacle_Car/
+Ejercicio_k-NearestNeighbor.ipynb
+versiones_deep.py
+Red_Neuronal_desde_cero.ipynb
+Series_Temporales_Multivariate.ipynb
+Ejercicio_K_Means.ipynb
+Ejercicio_Regresion_Lineal.ipynb
+Ejercicio_Object_Detection.ipynb
+Red_Neuronal_coche.ipynb
+Ejercicio_EDA.ipynb
+api_ml/
+Ejercicio_Outliers.ipynb
+Series_Temporales_Embeddings.ipynb
+versiones.py
+artists_billboard_fix3.csv
+Red_Neuronal_Xor.ipynb
+nlp/
