@@ -1,7 +1,7 @@
 # Ejercicio CNN Convolutional Neural Networks y Set de imagenes MNIST de deportes
-## 1. Instalacion de Python 3.6.9 para Windows
+## 1. Instalacion de Python 3.7.13 para Windows
 ## 2. Configuracion del entorno de Python
-* Verificar si la version de python instalada es 3.6.8
+* Verificar si la version de python instalada es 3.7.13
 
     *   ```PowerShell
         python --version
