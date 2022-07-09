@@ -5,9 +5,11 @@
 ![colab2](/images-readme/1.png)
 
 ![colab3](/images-readme/2.png)
+
+![colab4](/images-readme/4.png)
+
 # Entorno local
-## 1. Instalacion de Python 3.7.13 para Windows
-## 2. Configuracion del entorno de Python
+## Configuracion del entorno de Python
 * Verificar si la version de python instalada es 3.7.13
 
     *   ```PowerShell
