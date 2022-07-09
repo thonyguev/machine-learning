@@ -1,7 +1,9 @@
 # Ejercicio CNN Convolutional Neural Networks y Set de imagenes MNIST de deportes
 # Google Colab
 ![colab1](/images-readme/3.png)
+
 ![colab2](/images-readme/1.png)
+
 ![colab3](/images-readme/2.png)
 # Entorno local
 ## 1. Instalacion de Python 3.7.13 para Windows
