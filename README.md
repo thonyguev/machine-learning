@@ -1,12 +1,14 @@
 # Ejercicio CNN Convolutional Neural Networks y Set de imagenes MNIST de deportes
 # Google Colab
-![colab1](/images-readme/3.png)
 
-![colab2](/images-readme/1.png)
-
-![colab3](/images-readme/2.png)
-
-![colab4](/images-readme/4.png)
+<img src="./images-readme/3.png" style="display: block; margin-left: auto; margin-right: auto;"/>
+<br/>
+<img src="./images-readme/1.png" style="display: block; margin-left: auto; margin-right: auto;"/>
+<br/>
+<img src="./images-readme/2.png" style="display: block; margin-left: auto; margin-right: auto;"/>
+<br/>
+<img src="./images-readme/4.png" style="display: block; margin-left: auto; margin-right: auto;"/>
+<br/>
 
 # Entorno local
 ## Configuracion del entorno de Python
