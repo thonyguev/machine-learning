@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+  app:
+    tty: true
+    stdin_open: true
+    image: python:3.7.13-slim
+    ports:
+      - 8888:8888
+    volumes:
+      - "./:/workspaces/app"
+      - "./venv:/workspaces/app/venv"
+    command: bash -c /workspaces/app/install.sh
+    working_dir: /workspaces/app    
