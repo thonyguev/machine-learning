@@ -10,26 +10,17 @@
 <img src="./images-readme/4.png" style="display: block; margin-left: auto; margin-right: auto;"/>
 <br/>
 
-# Entorno local
-## Configuracion del entorno de Python
-* Verificar si la version de python instalada es 3.7.13
+# Entorno en Docker Linux
+## Ejecutar en la raiz del repositorio
+<br/>
 
-    *   ```PowerShell
-        python --version
-        ```
-* Crea un entorno virtual de python
-    *   ```PowerShell
-        python -m venv venv
-        ```
-* Activa el entorno virtual de python
-    *   ```PowerShell
-        .\venv\Scripts\Activate.ps1
-        ```
-* Actualiza el manejador de paquetes de python - pip
-    *   ```PowerShell
-        python -m pip install --upgrade pip
-        ```
-* Instala los paquetes necesarios para el notebook de jupyter
-    *   ```PowerShell
-        pip install -r requirements.txt
-        ```
+Crear contenedor con Python 3.7.13 para Ejercicio_CNN.ipynb
+```bash
+docker compose up
+```
+
+Crear contenedor con Python 3.6.12 para Ejercicio_CNN_Guia.ipynb
+```bash
+docker compose -f ./Ejercicio_CNN_Python3.6.12/docker-compose.yml
+```
+
