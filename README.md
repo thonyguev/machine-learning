@@ -1,5 +1,6 @@
 # Ejercicio CNN Convolutional Neural Networks y Set de imagenes MNIST de deportes
-# Google Colab
+
+## Google Colab
 <details>
 <summary>(Click) Pasos para ejecutar el notebook en Colab</summary>
 <br/>
@@ -14,13 +15,12 @@
 </details>
 <br/>
 
-# Docker Container
-
+## Docker Container
 <details>
 <summary>(Click) docker compose</summary>
 <br/>
 
-## Ejecutar en la raiz del repositorio
+### Ejecutar en la raiz del repositorio
 
 <br/>
 
