@@ -1,7 +1,7 @@
 # Ejercicio CNN Convolutional Neural Networks y Set de imagenes MNIST de deportes
-![docker-version](https://img.shields.io/badge/Docker-20.10.17-blue)
-![python-version](https://img.shields.io/badge/Python-3.7.13-brightgreen)
-![](https://img.shields.io/badge/Python-3.6.12-red)
+![Docker](https://img.shields.io/badge/docker-20.10.17-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/python-3.7.17-green?style=flat&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3.6.12-red?style=flat&logo=python&logoColor=ffdd54)
 <br/>
 
 ## Google Colab
