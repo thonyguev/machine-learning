@@ -1,4 +1,5 @@
 # Ejercicio CNN Convolutional Neural Networks y Set de imagenes MNIST de deportes
+<br/>
 
 ## Google Colab
 <details>
@@ -13,7 +14,6 @@
 <img src="./images-readme/4.png" style="display: block; margin-left: auto; margin-right: auto;"/>
 <br/>
 </details>
-<br/>
 
 ## Docker Container
 <details>
